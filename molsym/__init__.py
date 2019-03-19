@@ -1,0 +1,1 @@
+from molsym.pointgroup import *
