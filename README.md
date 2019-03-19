@@ -16,7 +16,7 @@ Resources used for creating this package:
 
 Examples
 --------
-```
+```python
 >>> d2h = D2h()
 >>> print(repr(d2h))
 D2h()
